@@ -34,7 +34,7 @@ def bfs(G):
     visited.add(start)
     
     while queue:
-        start = queue.popleft() # important: use a deque for this
+        start = queue.popleft()
         if start == G.terminal:
             return distance[start]
         for v in G.G[start]:
