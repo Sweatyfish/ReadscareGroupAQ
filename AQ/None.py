@@ -14,14 +14,14 @@ def getgraph():
     nr_verts, nr_edges, nr_reds = map(int, input().split())
     start, terminal = input().split()
     for _ in range(nr_verts):
-        vertin = input()
+        vertin = input().strip()
         if vertin.endswith('*'):
             vertin = vertin[:-1].strip()
             reds.add(vertin)
         G[vertin] = []
+
     for _ in range(nr_edges):
         vert1, direction, vert2 = input().split()
-        
         G[vert1].append(vert2)
         if direction == "--":
             G[vert2].append(vert1)
@@ -32,6 +32,10 @@ G = getgraph()
 def bfs(G):
     visited = set()
     start = G.start
+
+    if G.start in G.reds:
+        return -1
+    
     queue = deque([start])
     distance = {start: 0}
     visited.add(start)
