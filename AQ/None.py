@@ -20,8 +20,11 @@ def getgraph():
             reds.add(vertin)
         G[vertin] = []
     for _ in range(nr_edges):
-        vert1,_,vert2 = input().split()
+        vert1, direction, vert2 = input().split()
+        
         G[vert1].append(vert2)
+        if direction == "--":
+            G[vert2].append(vert1)
     return graph(reds,start,terminal,G)
 
 G = getgraph()
