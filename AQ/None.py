@@ -1,30 +1,49 @@
+from collections import deque
 
 
-
+class graph:
+  def __init__(self, reds, start, terminal, G):
+    self.reds = reds
+    self.start = start
+    self.terminal = terminal
+    self.G = G
 
 def getgraph():
     G = {}
     reds = set()
-    nr_verts,nr_edges,nr_reds = map(int, input().split())
-    start,terminal = input().split()
-    
-    for i in range(nr_verts):
+    nr_verts, nr_edges, nr_reds = map(int, input().split())
+    start, terminal = input().split()
+    for _ in range(nr_verts):
         vertin = input()
         if vertin.endswith('*'):
             vertin = vertin[:-1].strip()
             reds.add(vertin)
         G[vertin] = []
-    for i in range(nr_edges):
+    for _ in range(nr_edges):
         vert1,_,vert2 = input().split()
-        vert1.strip()
-        vert2.strip()
-        print(vert1, "1 ----- 2", vert2)
         G[vert1].append(vert2)
-    return G,reds
+    return graph(reds,start,terminal,G)
 
+G = getgraph()
 
+def bfs(G):
+    visited = set()
+    start = G.start
+    queue = deque([start])
+    distance = {start: 0}
+    visited.add(start)
+    
+    while queue:
+        start = queue.popleft() # important: use a deque for this
+        if start == G.terminal:
+            return distance[start]
+        for v in G.G[start]:
+            if v in visited:
+                continue
+            if v not in G.reds:
+                visited.add(v)
+                distance[v] = distance[start] + 1
+                queue.append(v)
+    return -1
 
-
-print(getgraph())
-
-
+print(bfs(G))
