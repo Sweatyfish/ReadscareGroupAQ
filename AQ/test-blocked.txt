@@ -1,0 +1,97 @@
+40 55 12
+anrmo aowbh
+lmsal *
+bccnf *
+tufrp *
+eshcm
+iefft
+beffd
+mfisl
+wursh
+eband
+wplgs
+auebi
+opfdt
+eihgb
+ltutt
+pbbnn
+urtib
+rubio
+rhtbh
+itaeb
+tncma *
+rfort
+tnrrn
+fhacd *
+iwhdt
+hsist
+emiip *
+ptfuf *
+tnwnn
+ligbw *
+hrcic *
+anrmo
+fpotn
+whnip *
+gdbwb
+fettn *
+aowbh
+wostm
+daret
+hhafm
+caban *
+ligbw -- fettn
+anrmo -- bccnf
+tufrp -- pbbnn
+iwhdt -- emiip
+tufrp -- opfdt
+tnwnn -- whnip
+tufrp -- beffd
+hrcic -- iwhdt
+hsist -- fhacd
+itaeb -- wursh
+anrmo -- iefft
+lmsal -- rfort
+anrmo -- itaeb
+tncma -- ligbw
+bccnf -- eshcm
+bccnf -- eband
+lmsal -- rubio
+mfisl -- iefft
+anrmo -- tufrp
+anrmo -- lmsal
+fhacd -- hrcic
+tufrp -- ltutt
+hhafm -- hsist
+gdbwb -- fhacd
+anrmo -- rhtbh
+hhafm -- tnrrn
+ptfuf -- fpotn
+pbbnn -- auebi
+daret -- wostm
+fpotn -- hhafm
+fettn -- tnwnn
+tnrrn -- gdbwb
+lmsal -- wplgs
+hrcic -- gdbwb
+fhacd -- wostm
+caban -- aowbh
+emiip -- caban
+tnrrn -- ptfuf
+iwhdt -- aowbh
+tufrp -- urtib
+eband -- itaeb
+bccnf -- tncma
+anrmo -- eihgb
+anrmo -- wursh
+tufrp -- fpotn
+tncma -- aowbh
+rfort -- tnrrn
+lmsal -- ligbw
+rubio -- auebi
+emiip -- hsist
+ligbw -- bccnf
+anrmo -- mfisl
+anrmo -- auebi
+tnrrn -- ligbw
+daret -- fhacd

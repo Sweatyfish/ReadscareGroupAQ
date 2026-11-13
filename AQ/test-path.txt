@@ -1,0 +1,104 @@
+40 62 11
+aguuh ahaoe
+idfnl
+pbsnw
+tetug *
+araih
+dfldm
+pbleg *
+taowm
+crtdf
+filrm
+ssdal
+otnwn
+uaogp *
+ditgp
+wbsho *
+pfnun
+dsaop
+riuao
+ewcid
+tptgl
+tonsa
+ugtps
+bfrtp *
+fuwfc
+rlapu
+cffit
+offth
+ahaoe
+srsog
+npnau
+aguuh
+uhtrh
+lwsto *
+sblww
+dmaaa *
+uhnhh *
+umrah *
+uibcc
+athrs
+ompgi *
+arihw
+rlapu -- bfrtp
+tptgl -- ahaoe
+otnwn -- crtdf
+dsaop -- dfldm
+uibcc -- pbleg
+dfldm -- ugtps
+aguuh -- ewcid
+aguuh -- tptgl
+ewcid -- tptgl
+crtdf -- riuao
+tetug -- pbsnw
+ugtps -- taowm
+dsaop -- otnwn
+taowm -- srsog
+ugtps -- offth
+umrah -- pfnun
+riuao -- uhtrh
+npnau -- otnwn
+fuwfc -- uhnhh
+taowm -- tetug
+ewcid -- rlapu
+uhnhh -- uhtrh
+ompgi -- aguuh
+cffit -- umrah
+cffit -- ssdal
+bfrtp -- crtdf
+crtdf -- tetug
+tptgl -- idfnl
+offth -- tptgl
+otnwn -- uhnhh
+pbleg -- ahaoe
+wbsho -- ugtps
+arihw -- idfnl
+wbsho -- ewcid
+umrah -- taowm
+npnau -- offth
+aguuh -- pbsnw
+ugtps -- tetug
+athrs -- cffit
+tptgl -- umrah
+filrm -- otnwn
+athrs -- ahaoe
+tptgl -- dsaop
+ditgp -- dsaop
+crtdf -- arihw
+bfrtp -- ompgi
+sblww -- riuao
+cffit -- uhnhh
+filrm -- athrs
+srsog -- wbsho
+dfldm -- uibcc
+uhnhh -- crtdf
+lwsto -- uhnhh
+tetug -- pbleg
+tptgl -- uibcc
+ompgi -- lwsto
+ewcid -- taowm
+pbsnw -- ugtps
+wbsho -- arihw
+ahaoe -- dfldm
+filrm -- bfrtp
+ompgi -- ugtps

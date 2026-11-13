@@ -1,0 +1,77 @@
+30 45 10
+aisop alppd
+ebmmn
+uusoe
+wdgwi
+dbesg *
+alppd
+uithb
+pwhma
+ldcss
+cfwbl *
+bbowm
+webmr
+oudti *
+aisop
+iuhgs
+nnisa
+bgpli
+iplpt
+wbani
+eoort
+pwmao
+tluma
+swcas *
+ifmuw *
+cncpe
+hwuen *
+owren
+ownuw
+hetoa *
+lacdu *
+phlpi
+oudti -- tluma
+iuhgs -- uusoe
+bbowm -- dbesg
+cncpe -- tluma
+eoort -- nnisa
+hetoa -- wdgwi
+cfwbl -- webmr
+iuhgs -- eoort
+wbani -- webmr
+ownuw -- eoort
+bbowm -- iplpt
+lacdu -- ldcss
+pwhma -- lacdu
+uusoe -- iplpt
+pwhma -- webmr
+alppd -- iuhgs
+cfwbl -- nnisa
+phlpi -- iuhgs
+alppd -- pwhma
+pwmao -- iplpt
+owren -- ownuw
+swcas -- cncpe
+aisop -- alppd
+uusoe -- lacdu
+owren -- ldcss
+iuhgs -- wbani
+owren -- dbesg
+cfwbl -- ldcss
+ldcss -- uusoe
+cncpe -- nnisa
+owren -- ifmuw
+iplpt -- phlpi
+owren -- hetoa
+hetoa -- eoort
+wdgwi -- webmr
+iuhgs -- bbowm
+ownuw -- hwuen
+ownuw -- lacdu
+nnisa -- owren
+ebmmn -- bgpli
+tluma -- wdgwi
+oudti -- eoort
+hetoa -- uithb
+owren -- pwmao
+phlpi -- ifmuw
