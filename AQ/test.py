@@ -1,14 +1,15 @@
 import subprocess
 import glob
 import time
-
+program = "None.py"
+print("Running", program)
 for f in sorted(glob.glob("./../red-scare/data/*.txt")):
     with open(f) as fh:
         try:
             start = time.perf_counter()
 
             r = subprocess.run(
-                ["python", "Few.py"],
+                ["python", program],
                 stdin=fh,
                 capture_output=True,
                 text=True,
