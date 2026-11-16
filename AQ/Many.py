@@ -57,5 +57,27 @@ def weighted(G):
 
     return distance[G.terminal[0]]
 
+def is_dag(G):
+    indeg = {v: 0 for v in G.g}
+    for u in G.g:
+        for v, _ in G.g[u]:
+            indeg[v] += 1
+
+    stack = [v for v in indeg if indeg[v] == 0]
+    removed = 0
+    while stack:
+        u = stack.pop()
+        removed += 1
+        for v, _ in G.g[u]:
+            indeg[v] -= 1
+            if indeg[v] == 0:
+                stack.append(v)
+
+    return removed == len(G.g)
+
+
 G = getgraph()
-print(weighted(G))
+if is_dag(G):
+    print(weighted(G))
+else:
+    print("!?")
