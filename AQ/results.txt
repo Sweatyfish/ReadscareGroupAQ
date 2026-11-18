@@ -154,6 +154,7 @@ Running Alternate.py
 ./../red-scare/data\wall-z-3.txt False Time: 0.0481 seconds
 ./../red-scare/data\wall-z-4.txt False Time: 0.0486 seconds
 
+
 Running Few.py
 ./../red-scare/data\G-ex.txt 0 Time: 0.0705 seconds
 ./../red-scare/data\P3.txt 1 Time: 0.0578 seconds
